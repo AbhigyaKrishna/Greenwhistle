@@ -25,7 +25,7 @@ The real-world value comes from creating a digital economy where players can ear
 - Abhigya Krishna [GitHub](https://github.com/abhigyakrishna) | [Linkedin](https://www.linkedin.com/in/abhigya-krishna) | Blockchain Developer
 
 ### Your Approach:  
-- **Why we chose this problem**: We were inspired by the potential of integrating blockchain technology into gaming in a way that feels natural rather than forced. We saw an opportunity to create an immersive experience, while addressing the performance limitations that have held back blockchain gaming.
+- **Why we chose this**: We were inspired by the potential of integrating blockchain technology into gaming in a way that feels natural rather than forced. We saw an opportunity to create an immersive experience, while addressing the performance limitations that have held back blockchain gaming.
 
 - **Key challenges we addressed**:  
   * Creating a responsive game experience while maintaining blockchain integration
@@ -115,7 +115,7 @@ yarn deploy
 ### Local Setup:
 ```bash
 # Clone the repo
-git clone https://github.com/navyarathore/greenwhistle
+git clone https://github.com/AbhigyaKrishna/Greenwhistle.git
 
 # Install dependencies
 cd greenwistle/packages/nextjs
