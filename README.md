@@ -1,16 +1,9 @@
-![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
+![github-submission-banner](https://cdn.dorahacks.io/static/files/199cc0c708cbeb2e36af64d4bf5a35b6.png)
 
 # 🚀 Greenwhistle
 
 > Craft Your Tools, Build Your World, Live the Adventure.
 
----
-
-## 📌 Problem Statement
-
-**Problem Statement 2 – Unleash Blockchain Gameplay with Monad**
-
----
 
 ## 🎯 Objective
 
@@ -30,7 +23,6 @@ The real-world value comes from creating a digital economy where players can ear
 ### Team Members:  
 - Vaibhav Kothari [GitHub](https://github.com/vaibhavkothari33) | [Linkedin](https://www.linkedin.com/in/vaibhavkothari33) | Fullstack Developer
 - Abhigya Krishna [GitHub](https://github.com/abhigyakrishna) | [Linkedin](https://www.linkedin.com/in/abhigya-krishna) | Blockchain Developer
-- Navya Rathore [GitHub](https://github.com/navyarathore) | [Linkedin](https://www.linkedin.com/in/navya-rathore) | AI Engineer
 
 ### Your Approach:  
 - **Why we chose this problem**: We were inspired by the potential of integrating blockchain technology into gaming in a way that feels natural rather than forced. We saw an opportunity to create an immersive experience, while addressing the performance limitations that have held back blockchain gaming.
@@ -71,13 +63,9 @@ The real-world value comes from creating a digital economy where players can ear
 - Hosting:
     1. Vercel
 
-### Sponsor Technologies Used (if any):
 - ✅ **Monad:** _Your blockchain implementation_ 
 - ✅ **Base:** _AgentKit / OnchainKit / Smart Wallet usage_
-- ✅ **Groq:** _How you used Groq_  
-- [ ] **Fluvio:** _Real-time data handling_  
-- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
-- [ ] **Stellar:** _Payments, identity, or token usage_
+- ✅ **Groq:** _How you used Groq_ 
 ---
 
 ## ✨ Key Features
@@ -106,15 +94,7 @@ The real-world value comes from creating a digital economy where players can ear
 
 - **Demo Video Link:** [https://youtu.be/4AXkOjrZsaI](https://youtu.be/4AXkOjrZsaI) 
 - **Presentation Link:** [https://docs.google.com/presentation/d/16BX80mXnos6qpALj0ywZ0K4ja3XVEvLq/edit?usp=sharing&ouid=110902097743495051254&rtpof=true&sd=true](https://docs.google.com/presentation/d/16BX80mXnos6qpALj0ywZ0K4ja3XVEvLq/edit?usp=sharing&ouid=110902097743495051254&rtpof=true&sd=true)
----
 
-## ✅ Tasks & Bonus Checklist
-
-- ✅ **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- ✅ **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- ✅ **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
-
----
 
 ## 🧪 How to Run the Project
 
@@ -145,7 +125,6 @@ yarn install
 yarn dev
 ```
 
-Navigate to https://localhost:3000 in your browser
 
 ---
 
@@ -195,15 +174,5 @@ List improvements, extensions, or follow-up features:
 - Monad Blockchain
 - OpneZeppelin Contracts
 - Framer Motion
-
----
-
-## 🏁 Final Words
-
-Our hackathon journey creating Greenwhistle has been an incredible learning experience for our team. We encountered several challenges along the way, particularly in integrating Phaser's game engine with blockchain transactions in a way that maintains smooth gameplay. The most difficult aspect was designing a system where on-chain actions like NFT minting and marketplace transactions felt natural within the game flow rather than interrupting the experience.
-
-We learned valuable lessons about designing smart contracts optimized for gaming, balancing on-chain and off-chain data storage, and creating intuitive UIs for blockchain interactions. The experience strengthened our skills in full-stack development, blockchain implementation, and game design.
-
-Some memorable moments included our late-night debugging session that turned into an impromptu brainstorming about in-game economics, and the excitement we felt when we first successfully traded a crafted tool on our marketplace from one wallet to another.
 
 ---
